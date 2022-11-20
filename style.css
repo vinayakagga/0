@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.head-display {
+    width: 100%;
+    background-color: aquamarine;
+    text-align: center;
+}
+.medialogo {
+    display: inline-flex;
+    height: 1cm;
+    width: 1.5cm;
+    margin: 1cm;
+}
